@@ -16,8 +16,7 @@ Currently learning, building projects, and improving my skills step by step.
 * 🧩 Flask
 * 🗄️ Databases
 * ⚛️ React
-* 🎨 GSAP & modern web animations
-* 🌌 Three.js & WebGL
+
 
 ---
 
@@ -53,7 +52,7 @@ A Python-based task management project built while learning programming fundamen
 
 ## 🎯 My Goal
 
-To become a professional Web Developer and build creative, performant and useful digital experiences.
+To become a professional software engeneer and build creative, performant and useful digital experiences.
 
 ---
 
