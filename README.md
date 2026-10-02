@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Salah
 
-<!--
-**salahj-dev/salahj-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Web Developer in Progress
 
-Here are some ideas to get you started:
+I’m a developer focused on building modern and interactive web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning, building projects, and improving my skills step by step.
+
+---
+
+## 🚀 What I'm Learning
+
+* 🌐 HTML & CSS
+* ⚡ JavaScript
+* 🐍 Python
+* 🧩 Flask
+* 🗄️ Databases
+* ⚛️ React
+* 🎨 GSAP & modern web animations
+* 🌌 Three.js & WebGL
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+`HTML` `CSS` `JavaScript`
+
+**Backend**
+
+`Python` `Flask`
+
+**Currently Exploring**
+
+`React` `GSAP` `Three.js` `WebGL`
+
+**Tools**
+
+`Git` `GitHub` `VS Code`
+
+---
+
+## 📌 Featured Projects
+
+### 📝 TO-DO-LIST
+
+A Python-based task management project built while learning programming fundamentals.
+
+**Tech:** Python
+
+---
+
+## 🎯 My Goal
+
+To become a professional Web Developer and build creative, performant and useful digital experiences.
+
+---
+
+## 📚 Currently
+
+🌱 Learning by building projects
+💻 Improving my programming fundamentals
+🚀 Exploring modern web development
+🧠 Learning something new every day
+
+---
+
+### ⚡ Build. Learn. Improve. Repeat.
